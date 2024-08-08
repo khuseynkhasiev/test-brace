@@ -1,0 +1,6 @@
+.lineHorizontal {
+    width: 100%;
+    height: 4px;
+    border-radius: 5px;
+    background-color: black;
+}

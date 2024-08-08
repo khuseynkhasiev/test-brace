@@ -1,0 +1,6 @@
+.userList__message {
+    font-size: 20px;
+}
+.userList__message_error {
+    color: red;
+}
